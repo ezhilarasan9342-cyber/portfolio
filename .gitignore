@@ -1,0 +1,16 @@
+# Exclude the local Git installation folder
+Git/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# PowerShell scripts (optional - remove if you want to push these)
+*.ps1
